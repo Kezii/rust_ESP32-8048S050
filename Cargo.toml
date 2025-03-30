@@ -33,7 +33,6 @@ embedded-graphics-framebuf = "0.5.0"
 embedded-graphics-core = "0.4.0"
 embedded-graphics = "0.8.1"
 esp-idf-hal = "0.45"
-
 embedded-gfx = "0.1.0"
 
 
